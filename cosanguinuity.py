@@ -938,7 +938,6 @@ class PedigreesWindow(Gtk.Window):
         person_name = person_name.replace(', ', ",\n")
 
         scrolled_window = Gtk.ScrolledWindow()
-
         content = Gtk.Label(label='')
         content.set_valign(Gtk.Align.START)
         content.set_halign(Gtk.Align.START)

@@ -1,0 +1,147 @@
+# Translations template for deepgrallery.
+# Copyright (C) 2021 Hans Boldt
+# This file is distributed under the same license as the deepgrallery
+# project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: deepgrallery 1.0.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-09-06 15:22-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: cosanguinuity.gpr.py:4 cosanguinuity.gpr.py:14
+msgid "Cosanguinuity"
+msgstr ""
+
+#: cosanguinuity.gpr.py:5
+msgid "Gramplet showing relationships between partners"
+msgstr ""
+
+#: cosanguinuity.py:72
+msgid "No Family Tree loaded."
+msgstr ""
+
+#: cosanguinuity.py:73
+msgid "Move mouse over links for options"
+msgstr ""
+
+#: cosanguinuity.py:74
+msgid ""
+"Click to make active\n"
+"Right-click to edit"
+msgstr ""
+
+#: cosanguinuity.py:75
+msgid "View style"
+msgstr ""
+
+#: cosanguinuity.py:76
+msgid "Single pane"
+msgstr ""
+
+#: cosanguinuity.py:77
+msgid "Notebook"
+msgstr ""
+
+#: cosanguinuity.py:78
+msgid "Copy"
+msgstr ""
+
+#: cosanguinuity.py:79
+msgid "Close"
+msgstr ""
+
+#: cosanguinuity.py:80
+msgid "Display pedigrees"
+msgstr ""
+
+#: cosanguinuity.py:81
+msgid "Pedigree collapse"
+msgstr ""
+
+#: cosanguinuity.py:82
+msgid "Spousal cosanguinity"
+msgstr ""
+
+#: cosanguinuity.py:83
+msgid "Descendants"
+msgstr ""
+
+#: cosformatter.py:70
+msgid "(unknown)"
+msgstr ""
+
+#: cosformatter.py:71
+msgid "Relationship:"
+msgstr ""
+
+#: cosformatter.py:72
+msgid "Relationships:"
+msgstr ""
+
+#: cosformatter.py:73
+msgid "\"Common ancestor:"
+msgstr ""
+
+#: cosformatter.py:74
+msgid "Common ancestors:"
+msgstr ""
+
+#: cosformatter.py:75
+msgid "More spouse relationships not shown."
+msgstr ""
+
+#: cosformatter.py:76
+msgid "More relationships not shown."
+msgstr ""
+
+#: cosformatter.py:77
+msgid "Pedigree collapse for active person"
+msgstr ""
+
+#: cosformatter.py:78
+msgid "No pedigree collapse found."
+msgstr ""
+
+#: cosformatter.py:79
+#, python-format
+msgid "Pedigree collapse at %(relationship)s:"
+msgstr ""
+
+#: cosformatter.py:80
+msgid "More instances of pedigree collapse not shown."
+msgstr ""
+
+#: cosformatter.py:81
+msgid "No partners."
+msgstr ""
+
+#: cosformatter.py:82
+msgid "Not married."
+msgstr ""
+
+#: cosformatter.py:83
+msgid "Partner:"
+msgstr ""
+
+#: cosformatter.py:85
+msgid "Relationships between active person and partners"
+msgstr ""
+
+#: cosformatter.py:86
+msgid "No common ancestors found."
+msgstr ""
+
+#: cosformatter.py:87
+msgid "More ancestors not shown."
+msgstr ""
+
