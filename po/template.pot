@@ -1,15 +1,15 @@
-# Translations template for deepgrallery.
+# Translations template for cosanguinuity.
 # Copyright (C) 2021 Hans Boldt
-# This file is distributed under the same license as the deepgrallery
+# This file is distributed under the same license as the cosanguinuity
 # project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: deepgrallery 1.0.0\n"
+"Project-Id-Version: cosanguinuity 1.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-06 15:22-0400\n"
+"POT-Creation-Date: 2021-09-06 15:57-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
