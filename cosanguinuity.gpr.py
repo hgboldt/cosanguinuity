@@ -1,4 +1,4 @@
-# File: Cosanguinuity.gpr.py
+#  File: Cosanguinuity.gpr.py
 register(GRAMPLET,
          id="Cosanguinuity",
          name=_("Cosanguinuity"),

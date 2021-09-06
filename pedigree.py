@@ -666,6 +666,7 @@ class PedigreeAncestor:
 
             cls.person_cache[person_handle] = info
             return info
+
         return None
 
 

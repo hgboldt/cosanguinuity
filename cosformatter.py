@@ -447,3 +447,4 @@ class CosFormatter:
         if date_type != preferred_event_type:
             return "%s<i>%s</i>" % (cls.burial_symbol, sdate)
         return "%s%s" % (cls.death_symbol, sdate)
+
