@@ -517,6 +517,7 @@ class CosanguinuityGramplet(Gramplet):
             self.title_section.set_markup(cached_data[0])
             self.ped_collapse_section.set_markup(cached_data[1])
             self.cosanguinuity_section.set_markup(cached_data[2])
+            self.pedigrees = cached_data[3]
             yield False
 
         # Get pedigree for active person
@@ -548,7 +549,8 @@ class CosanguinuityGramplet(Gramplet):
 
         # Save data in cache
         self.cache.add(active_handle,
-                       (title, ped_coll_section, cosanguinuity_section))
+                       (title, ped_coll_section, cosanguinuity_section,
+                        self.pedigrees))
 
 
 #------------------------------#
