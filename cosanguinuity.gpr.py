@@ -2,7 +2,7 @@
 register(GRAMPLET,
          id="Cosanguinuity",
          name=_("Cosanguinuity"),
-         description = _("Gramplet showing relationships between partners"),
+         description = _("Gramplet showing pedigree collapse and spousal cosanguinuity."),
          version="1.0.0",
          gramps_target_version="5.1",
          status = STABLE,

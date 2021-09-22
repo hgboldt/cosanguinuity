@@ -1,15 +1,14 @@
-# Translations template for cosanguinuity.
+# Translations template for Cosanguinuity.
 # Copyright (C) 2021 Hans Boldt
-# This file is distributed under the same license as the cosanguinuity
-# project.
+# This file is distributed under the same license as the Cosanguinuity project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: cosanguinuity 1.0.0\n"
+"Project-Id-Version: Cosanguinuity VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-06 15:57-0400\n"
+"POT-Creation-Date: 2021-09-10 17:42-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +22,7 @@ msgid "Cosanguinuity"
 msgstr ""
 
 #: cosanguinuity.gpr.py:5
-msgid "Gramplet showing relationships between partners"
+msgid "Gramplet showing pedigree collapse and spousal cosanguinuity."
 msgstr ""
 
 #: cosanguinuity.py:72
