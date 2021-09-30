@@ -1,2 +1,2 @@
 # cosanguinuity
-Superceded by repo Consanguinuity.
+Superceded by repo Consanguinity.
